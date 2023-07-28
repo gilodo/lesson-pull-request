@@ -2,7 +2,7 @@
     padding: 100px;
     text-align: center;
     font-family: sans-serif;
-    font-size: 48px;
+    font-size: 44px;
     font-weight: 700;
     text-align: center;
     background-color: goldenrod;
@@ -13,7 +13,17 @@
     font-size: 48px;
     font-weight: 700;
     color: beige;
-    font-family: sans-serif;
+    font-family: serif;
     background-color: darkseagreen;
     text-align: center;
+}
+
+.footer {
+    padding: 110px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    background-color: rgb(71, 71, 71);
+    color: #fff;
 }
